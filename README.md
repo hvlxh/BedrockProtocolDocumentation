@@ -1,4 +1,4 @@
 # BedrockProtocolDocumentation
 
-An minecraft bedrock protocol documentation built with PrismarineJS's minecraft-data.
-**Preview**: hvlxh.github.io/BedrockProtocoLDocumentation
+An minecraft bedrock protocol documentation built with PrismarineJS's minecraft-data. <br>
+**Preview**: https://hvlxh.github.io/BedrockProtocoLDocumentation
